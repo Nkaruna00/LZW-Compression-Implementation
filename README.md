@@ -1,4 +1,5 @@
 # LZW-Compression-Implementation
+
 LZW Compression Implementation in C
 
 ## Description
@@ -11,8 +12,6 @@ This code allows to compress files using a string translation table from the tex
 ### Dependencies
 
 * C++
-
-
 
 ### Executing program
 
